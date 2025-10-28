@@ -22,7 +22,6 @@ EventGo giúp người dùng tạo và quản lý sự kiện, đăng ký tham g
 
 ## 📂 Cấu trúc thư mục
 eventgo-project/
-│
 ├── docs/ # SRS, UML, báo cáo
 ├── frontend/ # Giao diện
 ├── backend/ # API / Database
